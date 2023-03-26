@@ -1,5 +1,5 @@
 # ImageLabelClassification2023
-This project is for the 'Introduction to Deep Learning Course', this project was done by Paul Sarninghausen-Cahn and Simon Maedge. The group name is 'Simon says.'
+This project is for the 'Introduction to Deep Learning Course', this project was done by Paul Sarninghausen-Cahn and Simon Maedge. The group name is 'Simon says.' You can download the source code from the 'master' branch.
 
 
 # When downloaded Code, do the following to let it run:
